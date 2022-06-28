@@ -1,0 +1,2 @@
+### Version to test cases
+pytest==7.1.2
